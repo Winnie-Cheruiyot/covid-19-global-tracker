@@ -31,7 +31,7 @@ To run this project locally:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/covid19-tracker.git
+git clone https://github.com/Winnie-Cheruiyot/covid-19-global-tracker
 cd covid19-tracker
 Then open index.html in a browser or use a local server.
 
